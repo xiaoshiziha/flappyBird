@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/player/Birds.js"],"names":[],"mappings":"AAAA;;;;AAIC;AACA,OAAO,MAAM,KAAN,CAAY","file":"Birds-compiled.js","sourcesContent":["/**\n * @Date:   2018-03-20T16:58:39+08:00\n * @Last modified time: 2018-03-20T17:03:32+08:00\n */\n //小鸟类\n export class Birds {\n\n }\n"]}

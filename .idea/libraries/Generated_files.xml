@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/test/DownPencil-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/UpPencil-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Main-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Resources-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/DataStore-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Director-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/game-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Sprite-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/StartButton-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/ResourceLoader-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Land-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Birds-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/Score-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/BackGround-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/ssw-compiled.js" />
+        <item url="file://$PROJECT_DIR$/test/index-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/test/DownPencil-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/UpPencil-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Main-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Resources-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/DataStore-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Director-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/game-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Sprite-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/StartButton-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/ResourceLoader-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Land-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Birds-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/Score-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/BackGround-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/ssw-compiled.js" />
+      <root url="file://$PROJECT_DIR$/test/index-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

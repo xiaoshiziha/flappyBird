@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/player/Score.js"],"names":[],"mappings":"AAAA;;;;AAIC;AACA,OAAO,MAAM,KAAN,CAAY","file":"Score-compiled.js","sourcesContent":["/**\n * @Date:   2018-03-20T16:58:39+08:00\n * @Last modified time: 2018-03-20T17:03:32+08:00\n */\n //计分器类\n export class Score {\n\n }\n"]}

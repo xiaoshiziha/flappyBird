@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style media="screen">
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        /* 不能让它自由滑动 */
+        html,body{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+    <!-- 避免穿帮 -->
+<canvas id="game_canvas" width="375" height="667"></canvas>
+<script src="ssw.js"></script>
+    <!--如果代码未经babel转义，且用了export和import后，需设置type='module',且import路径要完整-->
+<script type="module" src="./game.js"></script>
+<!-- <script>
+    var canvas = e('#game_canvas')
+    var context = canvas.getContext('2d')
+    context.fillStyle = 'red'
+    context.fillRect(10, 10, 200, 200)
+</script> -->
+</body>
+</html>
